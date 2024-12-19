@@ -1,4 +1,7 @@
 # InfobellIT-Gen-AI
+
+## 
+[Wiki](Infobell-IT Gen-AI](https://github.com/KrArunT/InfobellIT-Gen-AI)
 * [FPGA](https://github.com/KrArunT/FPGA)
 * [MLPerf CM Docs](https://github.com/KrArunT/CM-Docs)
 * [CM-Automation](https://github.com/KrArunT/CM-automation-LLM)
